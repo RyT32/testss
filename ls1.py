@@ -90,6 +90,8 @@ strcounter("aaaabcd")
 
 # git init - создаем окальный репозиторий
 
+# git add . - добавляю все файлы для отправки
 
-
-
+# git remote add origin https://github.com/RyT32/testss.git
+# git branch -M main
+# git push -u origin main
